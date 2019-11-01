@@ -1,0 +1,16 @@
+<文字>
+color:red;<!-- 色 -->
+font-size:25px;<!-- 文字の大きさ -->
+font-weight:bold;<!-- 太さ　normal→標準　bold→太字 -->
+font-family:"Impact";<!-- 文字のフォントを変更 -->
+text-align:center;<!-- 文字の寄せ方　left→左寄せ　center→中央寄せ　right→右寄せ -->
+
+<背景>
+background-color:aqua;<!-- 背景色 -->
+background-image:url("../images/01/jpg");<!-- 背景を画像に -->
+background-repeat:repeat-x;<!-- 背景画像の繰り返し方を変える -->
+<!-- repeat→上下左右に繰り返す　repeat-x→横方向にのみ繰り返す　repeat-y→縦方向にのみ繰り返す　no-repeat→繰り返さない -->
+background-attachment:fixed;<!-- 背景画像のスクロール方法の変更 -->
+<!-- scroll→一緒にスクロール　fixed→位置を固定 -->
+background-position:;<!-- 初期位置の指定 -->
+<!-- top→上　left→左　right→右　bottom→下　center→中央 -->
