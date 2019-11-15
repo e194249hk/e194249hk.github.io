@@ -1,0 +1,39 @@
+body{
+    background-image: url("../images/aincrad.jpg");
+    background-position: center;
+    background-size:cover;
+}
+h1{
+    color:floralwhite;
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color:darkblue;
+    text-align: center;
+    background-color: aquamarine;
+}
+h3{
+    color: blue;
+    background-color: azure;
+}
+b{
+    color:darkslategray;
+    background-color: cornsilk;
+}
+a{
+    color: crimson;
+    
+}
+table{
+    background-color: azure;
+}
+ul{
+    background-color: floralwhite;
+}
+address{
+    background-color: aliceblue;
+}
+div{
+    text-align: center;
+}
