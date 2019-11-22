@@ -1,0 +1,31 @@
+body{
+    background-image:url(../images/%E8%83%8C%E6%99%AF);
+    background-position: center;
+    background-size:cover;
+}
+
+p.s1{
+    color:crimson;
+    background-color: aquamarine;
+}
+
+p.s2{
+    color:floralwhite;
+    background-color:blue;
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color:black;
+}
+
+h2{
+    text-align: center;
+    color: aqua;
+    background-color:fuchsia;
+}
+
+div{
+    text-align: center;
+}
