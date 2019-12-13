@@ -1,0 +1,80 @@
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+div.title{
+    font-size: 20px;
+    display: inline-block;
+    width: 1000px;
+    height: 40px;
+    vertical-align:top;
+    text-align:left;
+    background-color:darkgray;
+    margin: 10px;
+}
+div.back{
+    font-size: 0;
+    width: 1000px;
+    height: 320px;
+    text-align: left;
+    background-color:azure;
+    margin: 10px;
+}
+div.menu{
+    display: inline-block;
+    width: 250px;
+    height: 320px;
+    font-size: 20px;
+    vertical-align: top;
+    background-color: darkgray;
+    text-align: left;
+}
+div.images{
+    display: inline-block;
+    width: 700px;
+    height: 320px;
+    vertical-align: top;
+    background-color: darkgray;
+    text-align: center;
+    margin-left: 50px;
+}
+div.footer{
+    text-align: right;
+    vertical-align: top;
+    width: 1000px;
+    height: 40px;
+    font-size: 20px;
+    display: inline-block;
+    background-color: darkorange;
+    margin: 10px;
+}
+div.mn{
+    width: 250px;
+    height: 100px;
+    vertical-align: top;
+    text-align: left;
+    background-color: crimson;
+    margin-bottom: 10px; 
+}
+div.mn2{
+    width: 250px;
+    height: 100px;
+    vertical-align: top;
+    text-align: left;
+    background-color: crimson;
+}
+div.img{
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    vertical-align: top;
+    background-color: black;
+}
+div.b{
+    width: 700px;
+    height: 20px;
+    text-align: left;
+    vertical-align: top;
+    background-color:blue;
+    font-size: 15px;
+}
